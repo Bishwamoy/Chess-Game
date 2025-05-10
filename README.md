@@ -31,7 +31,7 @@
 #numpy
 
 # Installation
-#git clone https://github.com/yourusername/chess-gui-ai.git
+#git clone https://github.com/Bishwamoy/Chess-Game.git
 #cd chess-gui-ai
 #pip install -r requirements.txt
 #python chess_game.py
